@@ -18,8 +18,3 @@ python make_bu_data.py --output_dir data/cocobu
 ```
 
 This will create `data/cocobu_fc` and `data/cocobu_att`
-
-Then run:
-```bash
-python editnet_adaptive.py
-```
